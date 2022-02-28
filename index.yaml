@@ -11,4 +11,15 @@ entries:
     urls:
     - https://github.com/khush-deep14/chart/releases/download/app3-0.1.0/app3-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-28T14:49:49.783224965Z"
+  app4:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-28T14:54:29.933966025Z"
+    description: A Helm chart for Kubernetes
+    digest: dc31f2c725af8a554ec7385b6d97ee3f77ef7e38e24d0fb94fa00f99ed618638
+    name: app4
+    type: application
+    urls:
+    - https://github.com/khush-deep14/chart/releases/download/app4-0.1.0/app4-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-28T14:54:29.933970625Z"
